@@ -8,7 +8,7 @@
 
 <hr>
 
-> ## Generates permanent link for google drive file
+> ## Generates permanent direct link for google drive file
 
 ### Requirements:
 1. Python3
