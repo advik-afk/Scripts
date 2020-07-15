@@ -1,4 +1,4 @@
-<h1 align="center">Scripts ❤️</h1> 
+<h1 align="center">S C R I P T S ❤️</h1> 
 
 <p align="center">
 <a href="https://sawankumar.gitlab.io/"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
