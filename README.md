@@ -10,8 +10,6 @@
 
 > ## Various Scripts
 
-# Features supported:
-
 - Warp Plus ❤️
 
 
