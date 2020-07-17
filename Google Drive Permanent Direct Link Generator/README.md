@@ -35,3 +35,8 @@
 3. CD into the cloned for and open up and terminal and type > 
       ```python3 main.py```
 	*Paste as many links as your wish to and enter ```q``` to exit and get direct links.*
+
+
+## Thanks :heart:‍ 
+
+* [Jagrit007](https://github.com/jagrit007/gDrive-DirectLink)

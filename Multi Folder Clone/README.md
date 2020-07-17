@@ -46,3 +46,8 @@ Steps to add all the SAs to the Shared Drive
 Steps to clone a public folder to the Shared Drive
 ---------------------------------
 1) Run the following command, `python3 multifolderclone.py -s [SourceFolderID] -d [SDFolderID]`. Replace `[SourceFolderID]` with the folder ID of the folder you are trying to copy and replace `[SDFolderID]` with the same ID as used in step 3 in `Steps to add all the SAs to the Shared Drive`. It should start cloning the source folder to the Shared Drive at this point if everything was done correctly.
+
+
+## Thanks :heart:‍ 
+
+* [Justcopy](https://github.com/justcopy/Multifolderclone)
